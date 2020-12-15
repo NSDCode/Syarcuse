@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Syracuse\Syracuse\bin\Debug\Syracuse.exe.config
+C:\Users\User\source\repos\Syracuse\Syracuse\bin\Debug\Syracuse.exe
+C:\Users\User\source\repos\Syracuse\Syracuse\bin\Debug\Syracuse.pdb
+C:\Users\User\source\repos\Syracuse\Syracuse\obj\Debug\Syracuse.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Syracuse\Syracuse\obj\Debug\Syracuse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Syracuse\Syracuse\obj\Debug\Syracuse.exe
+C:\Users\User\source\repos\Syracuse\Syracuse\obj\Debug\Syracuse.pdb
