@@ -29,7 +29,7 @@ namespace Syracuse
             Console.ReadLine();
         }
 
-        public static bool IsPair(int x)
+        private static bool IsPair(int x)
         {
             return x % 2 == 0;
         }
